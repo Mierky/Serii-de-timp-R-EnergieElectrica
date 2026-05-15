@@ -1,0 +1,1241 @@
+﻿country_or_region,date,variable,generation_twh
+Romania,01-01-15,Bioenergy,0.05
+Romania,01-01-15,Clean,3.61
+Romania,01-01-15,Coal,1.81
+Romania,01-01-15,Fossil,2.71
+Romania,01-01-15,Gas,0.9
+Romania,01-01-15,Hydro,1.77
+Romania,01-01-15,Nuclear,1.05
+Romania,01-01-15,Solar,0.04
+Romania,01-01-15,Wind,0.7
+Romania,01-01-15,Wind and solar,0.74
+Romania,01-02-15,Bioenergy,0.05
+Romania,01-02-15,Clean,3.44
+Romania,01-02-15,Coal,1.46
+Romania,01-02-15,Fossil,2.15
+Romania,01-02-15,Gas,0.69
+Romania,01-02-15,Hydro,1.66
+Romania,01-02-15,Nuclear,0.95
+Romania,01-02-15,Solar,0.06
+Romania,01-02-15,Wind,0.72
+Romania,01-02-15,Wind and solar,0.78
+Romania,01-03-15,Bioenergy,0.05
+Romania,01-03-15,Clean,3.81
+Romania,01-03-15,Coal,1.39
+Romania,01-03-15,Fossil,2.08
+Romania,01-03-15,Gas,0.69
+Romania,01-03-15,Hydro,1.95
+Romania,01-03-15,Nuclear,1.01
+Romania,01-03-15,Solar,0.1
+Romania,01-03-15,Wind,0.7
+Romania,01-03-15,Wind and solar,0.8
+Romania,01-04-15,Bioenergy,0.04
+Romania,01-04-15,Clean,3.7
+Romania,01-04-15,Coal,1.35
+Romania,01-04-15,Fossil,1.73
+Romania,01-04-15,Gas,0.38
+Romania,01-04-15,Hydro,1.8
+Romania,01-04-15,Nuclear,0.98
+Romania,01-04-15,Solar,0.13
+Romania,01-04-15,Wind,0.75
+Romania,01-04-15,Wind and solar,0.88
+Romania,01-05-15,Bioenergy,0.05
+Romania,01-05-15,Clean,3.15
+Romania,01-05-15,Coal,1.19
+Romania,01-05-15,Fossil,1.52
+Romania,01-05-15,Gas,0.33
+Romania,01-05-15,Hydro,1.91
+Romania,01-05-15,Nuclear,0.65
+Romania,01-05-15,Solar,0.14
+Romania,01-05-15,Wind,0.4
+Romania,01-05-15,Wind and solar,0.54
+Romania,01-06-15,Bioenergy,0.04
+Romania,01-06-15,Clean,2.95
+Romania,01-06-15,Coal,1.14
+Romania,01-06-15,Fossil,1.63
+Romania,01-06-15,Gas,0.49
+Romania,01-06-15,Hydro,1.4
+Romania,01-06-15,Nuclear,0.93
+Romania,01-06-15,Solar,0.15
+Romania,01-06-15,Wind,0.43
+Romania,01-06-15,Wind and solar,0.58
+Romania,01-07-15,Bioenergy,0.04
+Romania,01-07-15,Clean,2.62
+Romania,01-07-15,Coal,1.75
+Romania,01-07-15,Fossil,2.7
+Romania,01-07-15,Gas,0.95
+Romania,01-07-15,Hydro,1.12
+Romania,01-07-15,Nuclear,1.01
+Romania,01-07-15,Solar,0.16
+Romania,01-07-15,Wind,0.29
+Romania,01-07-15,Wind and solar,0.45
+Romania,01-08-15,Bioenergy,0.05
+Romania,01-08-15,Clean,2.67
+Romania,01-08-15,Coal,1.7
+Romania,01-08-15,Fossil,2.63
+Romania,01-08-15,Gas,0.93
+Romania,01-08-15,Hydro,0.99
+Romania,01-08-15,Nuclear,1.01
+Romania,01-08-15,Solar,0.15
+Romania,01-08-15,Wind,0.47
+Romania,01-08-15,Wind and solar,0.62
+Romania,01-09-15,Bioenergy,0.04
+Romania,01-09-15,Clean,2.61
+Romania,01-09-15,Coal,1.62
+Romania,01-09-15,Fossil,2.45
+Romania,01-09-15,Gas,0.83
+Romania,01-09-15,Hydro,0.93
+Romania,01-09-15,Nuclear,0.98
+Romania,01-09-15,Solar,0.11
+Romania,01-09-15,Wind,0.55
+Romania,01-09-15,Wind and solar,0.66
+Romania,01-10-15,Bioenergy,0.04
+Romania,01-10-15,Clean,2.96
+Romania,01-10-15,Coal,1.58
+Romania,01-10-15,Fossil,2.58
+Romania,01-10-15,Gas,1
+Romania,01-10-15,Hydro,1.25
+Romania,01-10-15,Nuclear,1.04
+Romania,01-10-15,Solar,0.08
+Romania,01-10-15,Wind,0.55
+Romania,01-10-15,Wind and solar,0.63
+Romania,01-11-15,Bioenergy,0.04
+Romania,01-11-15,Clean,2.88
+Romania,01-11-15,Coal,1.75
+Romania,01-11-15,Fossil,2.83
+Romania,01-11-15,Gas,1.08
+Romania,01-11-15,Hydro,1.13
+Romania,01-11-15,Nuclear,1.01
+Romania,01-11-15,Solar,0.07
+Romania,01-11-15,Wind,0.63
+Romania,01-11-15,Wind and solar,0.7
+Romania,01-12-15,Bioenergy,0.04
+Romania,01-12-15,Clean,2.85
+Romania,01-12-15,Coal,1.66
+Romania,01-12-15,Fossil,2.92
+Romania,01-12-15,Gas,1.26
+Romania,01-12-15,Hydro,1.22
+Romania,01-12-15,Nuclear,1.04
+Romania,01-12-15,Solar,0.05
+Romania,01-12-15,Wind,0.5
+Romania,01-12-15,Wind and solar,0.55
+Romania,01-01-16,Bioenergy,0.04
+Romania,01-01-16,Clean,2.99
+Romania,01-01-16,Coal,1.92
+Romania,01-01-16,Fossil,3.2
+Romania,01-01-16,Gas,1.28
+Romania,01-01-16,Hydro,1.15
+Romania,01-01-16,Nuclear,1.04
+Romania,01-01-16,Solar,0.04
+Romania,01-01-16,Wind,0.72
+Romania,01-01-16,Wind and solar,0.76
+Romania,01-02-16,Bioenergy,0.03
+Romania,01-02-16,Clean,3.06
+Romania,01-02-16,Coal,1.23
+Romania,01-02-16,Fossil,2.02
+Romania,01-02-16,Gas,0.79
+Romania,01-02-16,Hydro,1.3
+Romania,01-02-16,Nuclear,0.97
+Romania,01-02-16,Solar,0.06
+Romania,01-02-16,Wind,0.7
+Romania,01-02-16,Wind and solar,0.76
+Romania,01-03-16,Bioenergy,0.04
+Romania,01-03-16,Clean,3.26
+Romania,01-03-16,Coal,1.11
+Romania,01-03-16,Fossil,1.83
+Romania,01-03-16,Gas,0.72
+Romania,01-03-16,Hydro,1.51
+Romania,01-03-16,Nuclear,1.04
+Romania,01-03-16,Solar,0.1
+Romania,01-03-16,Wind,0.57
+Romania,01-03-16,Wind and solar,0.67
+Romania,01-04-16,Bioenergy,0.04
+Romania,01-04-16,Clean,3.2
+Romania,01-04-16,Coal,0.93
+Romania,01-04-16,Fossil,1.45
+Romania,01-04-16,Gas,0.52
+Romania,01-04-16,Hydro,1.57
+Romania,01-04-16,Nuclear,1.01
+Romania,01-04-16,Solar,0.13
+Romania,01-04-16,Wind,0.45
+Romania,01-04-16,Wind and solar,0.58
+Romania,01-05-16,Bioenergy,0.03
+Romania,01-05-16,Clean,2.98
+Romania,01-05-16,Coal,0.94
+Romania,01-05-16,Fossil,1.44
+Romania,01-05-16,Gas,0.5
+Romania,01-05-16,Hydro,1.78
+Romania,01-05-16,Nuclear,0.62
+Romania,01-05-16,Solar,0.15
+Romania,01-05-16,Wind,0.4
+Romania,01-05-16,Wind and solar,0.55
+Romania,01-06-16,Bioenergy,0.03
+Romania,01-06-16,Clean,3.21
+Romania,01-06-16,Coal,1.33
+Romania,01-06-16,Fossil,1.85
+Romania,01-06-16,Gas,0.52
+Romania,01-06-16,Hydro,2.09
+Romania,01-06-16,Nuclear,0.57
+Romania,01-06-16,Solar,0.15
+Romania,01-06-16,Wind,0.37
+Romania,01-06-16,Wind and solar,0.52
+Romania,01-07-16,Bioenergy,0.03
+Romania,01-07-16,Clean,3.33
+Romania,01-07-16,Coal,1.4
+Romania,01-07-16,Fossil,2.2
+Romania,01-07-16,Gas,0.8
+Romania,01-07-16,Hydro,1.79
+Romania,01-07-16,Nuclear,1.02
+Romania,01-07-16,Solar,0.17
+Romania,01-07-16,Wind,0.32
+Romania,01-07-16,Wind and solar,0.49
+Romania,01-08-16,Bioenergy,0.04
+Romania,01-08-16,Clean,3.15
+Romania,01-08-16,Coal,1.31
+Romania,01-08-16,Fossil,2.07
+Romania,01-08-16,Gas,0.76
+Romania,01-08-16,Hydro,1.42
+Romania,01-08-16,Nuclear,1.02
+Romania,01-08-16,Solar,0.15
+Romania,01-08-16,Wind,0.52
+Romania,01-08-16,Wind and solar,0.67
+Romania,01-09-16,Bioenergy,0.04
+Romania,01-09-16,Clean,2.62
+Romania,01-09-16,Coal,1.35
+Romania,01-09-16,Fossil,2.15
+Romania,01-09-16,Gas,0.8
+Romania,01-09-16,Hydro,1.14
+Romania,01-09-16,Nuclear,0.99
+Romania,01-09-16,Solar,0.13
+Romania,01-09-16,Wind,0.32
+Romania,01-09-16,Wind and solar,0.45
+Romania,01-10-16,Bioenergy,0.04
+Romania,01-10-16,Clean,3.11
+Romania,01-10-16,Coal,1.5
+Romania,01-10-16,Fossil,2.39
+Romania,01-10-16,Gas,0.89
+Romania,01-10-16,Hydro,1.38
+Romania,01-10-16,Nuclear,1.04
+Romania,01-10-16,Solar,0.07
+Romania,01-10-16,Wind,0.58
+Romania,01-10-16,Wind and solar,0.65
+Romania,01-11-16,Bioenergy,0.04
+Romania,01-11-16,Clean,3.26
+Romania,01-11-16,Coal,1.46
+Romania,01-11-16,Fossil,2.53
+Romania,01-11-16,Gas,1.07
+Romania,01-11-16,Hydro,1.64
+Romania,01-11-16,Nuclear,0.94
+Romania,01-11-16,Solar,0.05
+Romania,01-11-16,Wind,0.59
+Romania,01-11-16,Wind and solar,0.64
+Romania,01-12-16,Bioenergy,0.04
+Romania,01-12-16,Clean,3.44
+Romania,01-12-16,Coal,1.63
+Romania,01-12-16,Fossil,2.91
+Romania,01-12-16,Gas,1.28
+Romania,01-12-16,Hydro,1.43
+Romania,01-12-16,Nuclear,1.04
+Romania,01-12-16,Solar,0.05
+Romania,01-12-16,Wind,0.88
+Romania,01-12-16,Wind and solar,0.93
+Romania,01-01-17,Bioenergy,0.04
+Romania,01-01-17,Clean,3.09
+Romania,01-01-17,Coal,1.83
+Romania,01-01-17,Fossil,3.34
+Romania,01-01-17,Gas,1.51
+Romania,01-01-17,Hydro,1.19
+Romania,01-01-17,Nuclear,1.02
+Romania,01-01-17,Solar,0.05
+Romania,01-01-17,Wind,0.79
+Romania,01-01-17,Wind and solar,0.84
+Romania,01-02-17,Bioenergy,0.03
+Romania,01-02-17,Clean,2.78
+Romania,01-02-17,Coal,1.43
+Romania,01-02-17,Fossil,2.62
+Romania,01-02-17,Gas,1.19
+Romania,01-02-17,Hydro,1.11
+Romania,01-02-17,Nuclear,0.94
+Romania,01-02-17,Solar,0.07
+Romania,01-02-17,Wind,0.63
+Romania,01-02-17,Wind and solar,0.7
+Romania,01-03-17,Bioenergy,0.04
+Romania,01-03-17,Clean,3.5
+Romania,01-03-17,Coal,1.27
+Romania,01-03-17,Fossil,2.26
+Romania,01-03-17,Gas,0.99
+Romania,01-03-17,Hydro,1.46
+Romania,01-03-17,Nuclear,1.05
+Romania,01-03-17,Solar,0.12
+Romania,01-03-17,Wind,0.83
+Romania,01-03-17,Wind and solar,0.95
+Romania,01-04-17,Bioenergy,0.03
+Romania,01-04-17,Clean,3.24
+Romania,01-04-17,Coal,1.1
+Romania,01-04-17,Fossil,1.82
+Romania,01-04-17,Gas,0.72
+Romania,01-04-17,Hydro,1.36
+Romania,01-04-17,Nuclear,1.02
+Romania,01-04-17,Solar,0.13
+Romania,01-04-17,Wind,0.7
+Romania,01-04-17,Wind and solar,0.83
+Romania,01-05-17,Bioenergy,0.03
+Romania,01-05-17,Clean,2.72
+Romania,01-05-17,Coal,1.48
+Romania,01-05-17,Fossil,1.94
+Romania,01-05-17,Gas,0.46
+Romania,01-05-17,Hydro,1.58
+Romania,01-05-17,Nuclear,0.54
+Romania,01-05-17,Solar,0.16
+Romania,01-05-17,Wind,0.41
+Romania,01-05-17,Wind and solar,0.57
+Romania,01-06-17,Bioenergy,0.03
+Romania,01-06-17,Clean,2.95
+Romania,01-06-17,Coal,1.39
+Romania,01-06-17,Fossil,1.84
+Romania,01-06-17,Gas,0.45
+Romania,01-06-17,Hydro,1.39
+Romania,01-06-17,Nuclear,0.96
+Romania,01-06-17,Solar,0.17
+Romania,01-06-17,Wind,0.4
+Romania,01-06-17,Wind and solar,0.57
+Romania,01-07-17,Bioenergy,0.04
+Romania,01-07-17,Clean,2.66
+Romania,01-07-17,Coal,1.53
+Romania,01-07-17,Fossil,2.24
+Romania,01-07-17,Gas,0.71
+Romania,01-07-17,Hydro,1.02
+Romania,01-07-17,Nuclear,0.97
+Romania,01-07-17,Solar,0.17
+Romania,01-07-17,Wind,0.46
+Romania,01-07-17,Wind and solar,0.63
+Romania,01-08-17,Bioenergy,0.04
+Romania,01-08-17,Clean,2.59
+Romania,01-08-17,Coal,1.48
+Romania,01-08-17,Fossil,2.24
+Romania,01-08-17,Gas,0.76
+Romania,01-08-17,Hydro,0.92
+Romania,01-08-17,Nuclear,0.98
+Romania,01-08-17,Solar,0.17
+Romania,01-08-17,Wind,0.48
+Romania,01-08-17,Wind and solar,0.65
+Romania,01-09-17,Bioenergy,0.04
+Romania,01-09-17,Clean,2.74
+Romania,01-09-17,Coal,1.32
+Romania,01-09-17,Fossil,1.97
+Romania,01-09-17,Gas,0.65
+Romania,01-09-17,Hydro,0.92
+Romania,01-09-17,Nuclear,0.99
+Romania,01-09-17,Solar,0.13
+Romania,01-09-17,Wind,0.66
+Romania,01-09-17,Wind and solar,0.79
+Romania,01-10-17,Bioenergy,0.04
+Romania,01-10-17,Clean,2.89
+Romania,01-10-17,Coal,1.47
+Romania,01-10-17,Fossil,2.25
+Romania,01-10-17,Gas,0.78
+Romania,01-10-17,Hydro,1.01
+Romania,01-10-17,Nuclear,1.04
+Romania,01-10-17,Solar,0.11
+Romania,01-10-17,Wind,0.69
+Romania,01-10-17,Wind and solar,0.8
+Romania,01-11-17,Bioenergy,0.04
+Romania,01-11-17,Clean,2.75
+Romania,01-11-17,Coal,1.45
+Romania,01-11-17,Fossil,2.65
+Romania,01-11-17,Gas,1.2
+Romania,01-11-17,Hydro,1.19
+Romania,01-11-17,Nuclear,1.01
+Romania,01-11-17,Solar,0.05
+Romania,01-11-17,Wind,0.46
+Romania,01-11-17,Wind and solar,0.51
+Romania,01-12-17,Bioenergy,0.04
+Romania,01-12-17,Clean,3.29
+Romania,01-12-17,Coal,1.45
+Romania,01-12-17,Fossil,2.7
+Romania,01-12-17,Gas,1.25
+Romania,01-12-17,Hydro,1.41
+Romania,01-12-17,Nuclear,0.99
+Romania,01-12-17,Solar,0.04
+Romania,01-12-17,Wind,0.81
+Romania,01-12-17,Wind and solar,0.85
+Romania,01-01-18,Bioenergy,0.04
+Romania,01-01-18,Clean,3.05
+Romania,01-01-18,Coal,1.7
+Romania,01-01-18,Fossil,2.94
+Romania,01-01-18,Gas,1.24
+Romania,01-01-18,Hydro,1.25
+Romania,01-01-18,Nuclear,1.04
+Romania,01-01-18,Solar,0.05
+Romania,01-01-18,Wind,0.67
+Romania,01-01-18,Wind and solar,0.72
+Romania,01-02-18,Bioenergy,0.03
+Romania,01-02-18,Clean,3.06
+Romania,01-02-18,Coal,1.59
+Romania,01-02-18,Fossil,2.74
+Romania,01-02-18,Gas,1.15
+Romania,01-02-18,Hydro,1.27
+Romania,01-02-18,Nuclear,0.94
+Romania,01-02-18,Solar,0.05
+Romania,01-02-18,Wind,0.77
+Romania,01-02-18,Wind and solar,0.82
+Romania,01-03-18,Bioenergy,0.03
+Romania,01-03-18,Clean,3.59
+Romania,01-03-18,Coal,1.55
+Romania,01-03-18,Fossil,2.46
+Romania,01-03-18,Gas,0.91
+Romania,01-03-18,Hydro,1.9
+Romania,01-03-18,Nuclear,0.98
+Romania,01-03-18,Solar,0.09
+Romania,01-03-18,Wind,0.59
+Romania,01-03-18,Wind and solar,0.68
+Romania,01-04-18,Bioenergy,0.02
+Romania,01-04-18,Clean,3.69
+Romania,01-04-18,Coal,0.86
+Romania,01-04-18,Fossil,1.24
+Romania,01-04-18,Gas,0.38
+Romania,01-04-18,Hydro,1.97
+Romania,01-04-18,Nuclear,1
+Romania,01-04-18,Solar,0.16
+Romania,01-04-18,Wind,0.54
+Romania,01-04-18,Wind and solar,0.7
+Romania,01-05-18,Bioenergy,0.03
+Romania,01-05-18,Clean,3.01
+Romania,01-05-18,Coal,1.13
+Romania,01-05-18,Fossil,1.65
+Romania,01-05-18,Gas,0.52
+Romania,01-05-18,Hydro,1.75
+Romania,01-05-18,Nuclear,0.54
+Romania,01-05-18,Solar,0.18
+Romania,01-05-18,Wind,0.51
+Romania,01-05-18,Wind and solar,0.69
+Romania,01-06-18,Bioenergy,0.03
+Romania,01-06-18,Clean,2.94
+Romania,01-06-18,Coal,1.12
+Romania,01-06-18,Fossil,1.83
+Romania,01-06-18,Gas,0.71
+Romania,01-06-18,Hydro,1.5
+Romania,01-06-18,Nuclear,0.92
+Romania,01-06-18,Solar,0.15
+Romania,01-06-18,Wind,0.34
+Romania,01-06-18,Wind and solar,0.49
+Romania,01-07-18,Bioenergy,0.03
+Romania,01-07-18,Clean,3.49
+Romania,01-07-18,Coal,1.23
+Romania,01-07-18,Fossil,1.82
+Romania,01-07-18,Gas,0.59
+Romania,01-07-18,Hydro,2.11
+Romania,01-07-18,Nuclear,1
+Romania,01-07-18,Solar,0.15
+Romania,01-07-18,Wind,0.2
+Romania,01-07-18,Wind and solar,0.35
+Romania,01-08-18,Bioenergy,0.03
+Romania,01-08-18,Clean,3.19
+Romania,01-08-18,Coal,1.26
+Romania,01-08-18,Fossil,2.08
+Romania,01-08-18,Gas,0.82
+Romania,01-08-18,Hydro,1.64
+Romania,01-08-18,Nuclear,1
+Romania,01-08-18,Solar,0.17
+Romania,01-08-18,Wind,0.35
+Romania,01-08-18,Wind and solar,0.52
+Romania,01-09-18,Bioenergy,0.02
+Romania,01-09-18,Clean,2.81
+Romania,01-09-18,Coal,1.21
+Romania,01-09-18,Fossil,1.99
+Romania,01-09-18,Gas,0.78
+Romania,01-09-18,Hydro,1.23
+Romania,01-09-18,Nuclear,0.92
+Romania,01-09-18,Solar,0.14
+Romania,01-09-18,Wind,0.5
+Romania,01-09-18,Wind and solar,0.64
+Romania,01-10-18,Bioenergy,0.03
+Romania,01-10-18,Clean,2.85
+Romania,01-10-18,Coal,1.28
+Romania,01-10-18,Fossil,2.3
+Romania,01-10-18,Gas,1.02
+Romania,01-10-18,Hydro,1.09
+Romania,01-10-18,Nuclear,1.02
+Romania,01-10-18,Solar,0.12
+Romania,01-10-18,Wind,0.59
+Romania,01-10-18,Wind and solar,0.71
+Romania,01-11-18,Bioenergy,0.04
+Romania,01-11-18,Clean,2.68
+Romania,01-11-18,Coal,1.42
+Romania,01-11-18,Fossil,2.64
+Romania,01-11-18,Gas,1.22
+Romania,01-11-18,Hydro,1.02
+Romania,01-11-18,Nuclear,0.99
+Romania,01-11-18,Solar,0.05
+Romania,01-11-18,Wind,0.58
+Romania,01-11-18,Wind and solar,0.63
+Romania,01-12-18,Bioenergy,0.04
+Romania,01-12-18,Clean,2.71
+Romania,01-12-18,Coal,1.46
+Romania,01-12-18,Fossil,2.84
+Romania,01-12-18,Gas,1.38
+Romania,01-12-18,Hydro,1
+Romania,01-12-18,Nuclear,1.03
+Romania,01-12-18,Solar,0.03
+Romania,01-12-18,Wind,0.61
+Romania,01-12-18,Wind and solar,0.64
+Romania,01-01-19,Bioenergy,0.04
+Romania,01-01-19,Clean,2.89
+Romania,01-01-19,Coal,1.3
+Romania,01-01-19,Fossil,2.6
+Romania,01-01-19,Gas,1.3
+Romania,01-01-19,Hydro,0.99
+Romania,01-01-19,Nuclear,1.03
+Romania,01-01-19,Solar,0.04
+Romania,01-01-19,Wind,0.79
+Romania,01-01-19,Wind and solar,0.83
+Romania,01-02-19,Bioenergy,0.04
+Romania,01-02-19,Clean,2.84
+Romania,01-02-19,Coal,1.17
+Romania,01-02-19,Fossil,2.29
+Romania,01-02-19,Gas,1.12
+Romania,01-02-19,Hydro,1.14
+Romania,01-02-19,Nuclear,0.93
+Romania,01-02-19,Solar,0.08
+Romania,01-02-19,Wind,0.65
+Romania,01-02-19,Wind and solar,0.73
+Romania,01-03-19,Bioenergy,0.04
+Romania,01-03-19,Clean,3.19
+Romania,01-03-19,Coal,1.21
+Romania,01-03-19,Fossil,2.03
+Romania,01-03-19,Gas,0.82
+Romania,01-03-19,Hydro,1.33
+Romania,01-03-19,Nuclear,1.03
+Romania,01-03-19,Solar,0.14
+Romania,01-03-19,Wind,0.65
+Romania,01-03-19,Wind and solar,0.79
+Romania,01-04-19,Bioenergy,0.03
+Romania,01-04-19,Clean,3.19
+Romania,01-04-19,Coal,1.19
+Romania,01-04-19,Fossil,1.63
+Romania,01-04-19,Gas,0.44
+Romania,01-04-19,Hydro,1.41
+Romania,01-04-19,Nuclear,0.99
+Romania,01-04-19,Solar,0.13
+Romania,01-04-19,Wind,0.63
+Romania,01-04-19,Wind and solar,0.76
+Romania,01-05-19,Bioenergy,0.03
+Romania,01-05-19,Clean,3.57
+Romania,01-05-19,Coal,1.08
+Romania,01-05-19,Fossil,1.43
+Romania,01-05-19,Gas,0.35
+Romania,01-05-19,Hydro,2.32
+Romania,01-05-19,Nuclear,0.54
+Romania,01-05-19,Solar,0.14
+Romania,01-05-19,Wind,0.54
+Romania,01-05-19,Wind and solar,0.68
+Romania,01-06-19,Bioenergy,0.02
+Romania,01-06-19,Clean,3.78
+Romania,01-06-19,Coal,1.01
+Romania,01-06-19,Fossil,1.31
+Romania,01-06-19,Gas,0.3
+Romania,01-06-19,Hydro,2.38
+Romania,01-06-19,Nuclear,0.86
+Romania,01-06-19,Solar,0.16
+Romania,01-06-19,Wind,0.36
+Romania,01-06-19,Wind and solar,0.52
+Romania,01-07-19,Bioenergy,0.03
+Romania,01-07-19,Clean,2.89
+Romania,01-07-19,Coal,1.2
+Romania,01-07-19,Fossil,1.83
+Romania,01-07-19,Gas,0.63
+Romania,01-07-19,Hydro,1.41
+Romania,01-07-19,Nuclear,0.99
+Romania,01-07-19,Solar,0.16
+Romania,01-07-19,Wind,0.3
+Romania,01-07-19,Wind and solar,0.46
+Romania,01-08-19,Bioenergy,0.04
+Romania,01-08-19,Clean,2.65
+Romania,01-08-19,Coal,1.15
+Romania,01-08-19,Fossil,1.78
+Romania,01-08-19,Gas,0.63
+Romania,01-08-19,Hydro,1.02
+Romania,01-08-19,Nuclear,0.99
+Romania,01-08-19,Solar,0.17
+Romania,01-08-19,Wind,0.43
+Romania,01-08-19,Wind and solar,0.6
+Romania,01-09-19,Bioenergy,0.03
+Romania,01-09-19,Clean,2.29
+Romania,01-09-19,Coal,1.12
+Romania,01-09-19,Fossil,1.83
+Romania,01-09-19,Gas,0.71
+Romania,01-09-19,Hydro,0.82
+Romania,01-09-19,Nuclear,0.86
+Romania,01-09-19,Solar,0.13
+Romania,01-09-19,Wind,0.45
+Romania,01-09-19,Wind and solar,0.58
+Romania,01-10-19,Bioenergy,0.04
+Romania,01-10-19,Clean,2.38
+Romania,01-10-19,Coal,1.16
+Romania,01-10-19,Fossil,2.1
+Romania,01-10-19,Gas,0.94
+Romania,01-10-19,Hydro,0.84
+Romania,01-10-19,Nuclear,1.02
+Romania,01-10-19,Solar,0.11
+Romania,01-10-19,Wind,0.37
+Romania,01-10-19,Wind and solar,0.48
+Romania,01-11-19,Bioenergy,0.04
+Romania,01-11-19,Clean,2.83
+Romania,01-11-19,Coal,1.11
+Romania,01-11-19,Fossil,2.11
+Romania,01-11-19,Gas,1
+Romania,01-11-19,Hydro,0.97
+Romania,01-11-19,Nuclear,1
+Romania,01-11-19,Solar,0.05
+Romania,01-11-19,Wind,0.77
+Romania,01-11-19,Wind and solar,0.82
+Romania,01-12-19,Bioenergy,0.04
+Romania,01-12-19,Clean,2.97
+Romania,01-12-19,Coal,1.14
+Romania,01-12-19,Fossil,2.22
+Romania,01-12-19,Gas,1.08
+Romania,01-12-19,Hydro,1.08
+Romania,01-12-19,Nuclear,1.05
+Romania,01-12-19,Solar,0.05
+Romania,01-12-19,Wind,0.75
+Romania,01-12-19,Wind and solar,0.8
+Romania,01-01-20,Bioenergy,0.05
+Romania,01-01-20,Clean,2.89
+Romania,01-01-20,Coal,1.1
+Romania,01-01-20,Fossil,2.46
+Romania,01-01-20,Gas,1.36
+Romania,01-01-20,Hydro,1.09
+Romania,01-01-20,Nuclear,1.05
+Romania,01-01-20,Solar,0.06
+Romania,01-01-20,Wind,0.64
+Romania,01-01-20,Wind and solar,0.7
+Romania,01-02-20,Bioenergy,0.05
+Romania,01-02-20,Clean,2.97
+Romania,01-02-20,Coal,0.79
+Romania,01-02-20,Fossil,1.87
+Romania,01-02-20,Gas,1.08
+Romania,01-02-20,Hydro,1.06
+Romania,01-02-20,Nuclear,0.99
+Romania,01-02-20,Solar,0.08
+Romania,01-02-20,Wind,0.79
+Romania,01-02-20,Wind and solar,0.87
+Romania,01-03-20,Bioenergy,0.05
+Romania,01-03-20,Clean,3.33
+Romania,01-03-20,Coal,0.82
+Romania,01-03-20,Fossil,1.68
+Romania,01-03-20,Gas,0.86
+Romania,01-03-20,Hydro,1.27
+Romania,01-03-20,Nuclear,1.05
+Romania,01-03-20,Solar,0.11
+Romania,01-03-20,Wind,0.85
+Romania,01-03-20,Wind and solar,0.96
+Romania,01-04-20,Bioenergy,0.03
+Romania,01-04-20,Clean,2.98
+Romania,01-04-20,Coal,0.47
+Romania,01-04-20,Fossil,1.01
+Romania,01-04-20,Gas,0.54
+Romania,01-04-20,Hydro,1.13
+Romania,01-04-20,Nuclear,1.02
+Romania,01-04-20,Solar,0.17
+Romania,01-04-20,Wind,0.63
+Romania,01-04-20,Wind and solar,0.8
+Romania,01-05-20,Bioenergy,0.04
+Romania,01-05-20,Clean,2.95
+Romania,01-05-20,Coal,0.47
+Romania,01-05-20,Fossil,0.95
+Romania,01-05-20,Gas,0.48
+Romania,01-05-20,Hydro,1.06
+Romania,01-05-20,Nuclear,1.04
+Romania,01-05-20,Solar,0.15
+Romania,01-05-20,Wind,0.66
+Romania,01-05-20,Wind and solar,0.81
+Romania,01-06-20,Bioenergy,0.03
+Romania,01-06-20,Clean,3
+Romania,01-06-20,Coal,0.52
+Romania,01-06-20,Fossil,1.11
+Romania,01-06-20,Gas,0.59
+Romania,01-06-20,Hydro,1.73
+Romania,01-06-20,Nuclear,0.82
+Romania,01-06-20,Solar,0.14
+Romania,01-06-20,Wind,0.28
+Romania,01-06-20,Wind and solar,0.42
+Romania,01-07-20,Bioenergy,0.03
+Romania,01-07-20,Clean,2.81
+Romania,01-07-20,Coal,0.92
+Romania,01-07-20,Fossil,1.75
+Romania,01-07-20,Gas,0.83
+Romania,01-07-20,Hydro,1.74
+Romania,01-07-20,Nuclear,0.51
+Romania,01-07-20,Solar,0.16
+Romania,01-07-20,Wind,0.37
+Romania,01-07-20,Wind and solar,0.53
+Romania,01-08-20,Bioenergy,0.03
+Romania,01-08-20,Clean,2.87
+Romania,01-08-20,Coal,0.94
+Romania,01-08-20,Fossil,1.75
+Romania,01-08-20,Gas,0.81
+Romania,01-08-20,Hydro,1.36
+Romania,01-08-20,Nuclear,0.89
+Romania,01-08-20,Solar,0.16
+Romania,01-08-20,Wind,0.43
+Romania,01-08-20,Wind and solar,0.59
+Romania,01-09-20,Bioenergy,0.03
+Romania,01-09-20,Clean,2.74
+Romania,01-09-20,Coal,0.89
+Romania,01-09-20,Fossil,1.7
+Romania,01-09-20,Gas,0.81
+Romania,01-09-20,Hydro,1.04
+Romania,01-09-20,Nuclear,0.99
+Romania,01-09-20,Solar,0.14
+Romania,01-09-20,Wind,0.54
+Romania,01-09-20,Wind and solar,0.68
+Romania,01-10-20,Bioenergy,0.05
+Romania,01-10-20,Clean,3.04
+Romania,01-10-20,Coal,0.82
+Romania,01-10-20,Fossil,1.39
+Romania,01-10-20,Gas,0.57
+Romania,01-10-20,Hydro,1.31
+Romania,01-10-20,Nuclear,1.05
+Romania,01-10-20,Solar,0.09
+Romania,01-10-20,Wind,0.54
+Romania,01-10-20,Wind and solar,0.63
+Romania,01-11-20,Bioenergy,0.05
+Romania,01-11-20,Clean,2.81
+Romania,01-11-20,Coal,0.89
+Romania,01-11-20,Fossil,1.98
+Romania,01-11-20,Gas,1.09
+Romania,01-11-20,Hydro,1.3
+Romania,01-11-20,Nuclear,1.02
+Romania,01-11-20,Solar,0.05
+Romania,01-11-20,Wind,0.39
+Romania,01-11-20,Wind and solar,0.44
+Romania,01-12-20,Bioenergy,0.06
+Romania,01-12-20,Clean,3.21
+Romania,01-12-20,Coal,0.98
+Romania,01-12-20,Fossil,2.15
+Romania,01-12-20,Gas,1.17
+Romania,01-12-20,Hydro,1.31
+Romania,01-12-20,Nuclear,1.05
+Romania,01-12-20,Solar,0.03
+Romania,01-12-20,Wind,0.76
+Romania,01-12-20,Wind and solar,0.79
+Romania,01-01-21,Bioenergy,0.05
+Romania,01-01-21,Clean,3.46
+Romania,01-01-21,Coal,0.9
+Romania,01-01-21,Fossil,2.04
+Romania,01-01-21,Gas,1.14
+Romania,01-01-21,Hydro,1.65
+Romania,01-01-21,Nuclear,0.92
+Romania,01-01-21,Solar,0.04
+Romania,01-01-21,Wind,0.8
+Romania,01-01-21,Wind and solar,0.84
+Romania,01-02-21,Bioenergy,0.05
+Romania,01-02-21,Clean,3.19
+Romania,01-02-21,Coal,0.92
+Romania,01-02-21,Fossil,1.88
+Romania,01-02-21,Gas,0.96
+Romania,01-02-21,Hydro,1.63
+Romania,01-02-21,Nuclear,0.93
+Romania,01-02-21,Solar,0.07
+Romania,01-02-21,Wind,0.51
+Romania,01-02-21,Wind and solar,0.58
+Romania,01-03-21,Bioenergy,0.06
+Romania,01-03-21,Clean,3.47
+Romania,01-03-21,Coal,0.92
+Romania,01-03-21,Fossil,1.97
+Romania,01-03-21,Gas,1.05
+Romania,01-03-21,Hydro,1.55
+Romania,01-03-21,Nuclear,1.04
+Romania,01-03-21,Solar,0.12
+Romania,01-03-21,Wind,0.7
+Romania,01-03-21,Wind and solar,0.82
+Romania,01-04-21,Bioenergy,0.05
+Romania,01-04-21,Clean,3.24
+Romania,01-04-21,Coal,0.99
+Romania,01-04-21,Fossil,1.61
+Romania,01-04-21,Gas,0.62
+Romania,01-04-21,Hydro,1.64
+Romania,01-04-21,Nuclear,1.01
+Romania,01-04-21,Solar,0.13
+Romania,01-04-21,Wind,0.41
+Romania,01-04-21,Wind and solar,0.54
+Romania,01-05-21,Bioenergy,0.05
+Romania,01-05-21,Clean,3.58
+Romania,01-05-21,Coal,0.78
+Romania,01-05-21,Fossil,1.32
+Romania,01-05-21,Gas,0.54
+Romania,01-05-21,Hydro,2.2
+Romania,01-05-21,Nuclear,0.66
+Romania,01-05-21,Solar,0.16
+Romania,01-05-21,Wind,0.51
+Romania,01-05-21,Wind and solar,0.67
+Romania,01-06-21,Bioenergy,0.05
+Romania,01-06-21,Clean,3.5
+Romania,01-06-21,Coal,0.84
+Romania,01-06-21,Fossil,1.53
+Romania,01-06-21,Gas,0.69
+Romania,01-06-21,Hydro,2.08
+Romania,01-06-21,Nuclear,0.76
+Romania,01-06-21,Solar,0.15
+Romania,01-06-21,Wind,0.46
+Romania,01-06-21,Wind and solar,0.61
+Romania,01-07-21,Bioenergy,0.04
+Romania,01-07-21,Clean,3.03
+Romania,01-07-21,Coal,1.05
+Romania,01-07-21,Fossil,1.9
+Romania,01-07-21,Gas,0.85
+Romania,01-07-21,Hydro,1.53
+Romania,01-07-21,Nuclear,0.93
+Romania,01-07-21,Solar,0.17
+Romania,01-07-21,Wind,0.36
+Romania,01-07-21,Wind and solar,0.53
+Romania,01-08-21,Bioenergy,0.05
+Romania,01-08-21,Clean,2.69
+Romania,01-08-21,Coal,0.91
+Romania,01-08-21,Fossil,1.74
+Romania,01-08-21,Gas,0.83
+Romania,01-08-21,Hydro,1.13
+Romania,01-08-21,Nuclear,1.01
+Romania,01-08-21,Solar,0.15
+Romania,01-08-21,Wind,0.35
+Romania,01-08-21,Wind and solar,0.5
+Romania,01-09-21,Bioenergy,0.04
+Romania,01-09-21,Clean,2.59
+Romania,01-09-21,Coal,0.86
+Romania,01-09-21,Fossil,1.66
+Romania,01-09-21,Gas,0.8
+Romania,01-09-21,Hydro,0.99
+Romania,01-09-21,Nuclear,0.99
+Romania,01-09-21,Solar,0.13
+Romania,01-09-21,Wind,0.44
+Romania,01-09-21,Wind and solar,0.57
+Romania,01-10-21,Bioenergy,0.05
+Romania,01-10-21,Clean,2.66
+Romania,01-10-21,Coal,0.96
+Romania,01-10-21,Fossil,1.86
+Romania,01-10-21,Gas,0.9
+Romania,01-10-21,Hydro,0.94
+Romania,01-10-21,Nuclear,1
+Romania,01-10-21,Solar,0.1
+Romania,01-10-21,Wind,0.57
+Romania,01-10-21,Wind and solar,0.67
+Romania,01-11-21,Bioenergy,0.05
+Romania,01-11-21,Clean,2.57
+Romania,01-11-21,Coal,0.93
+Romania,01-11-21,Fossil,2.03
+Romania,01-11-21,Gas,1.1
+Romania,01-11-21,Hydro,0.91
+Romania,01-11-21,Nuclear,1.01
+Romania,01-11-21,Solar,0.06
+Romania,01-11-21,Wind,0.54
+Romania,01-11-21,Wind and solar,0.6
+Romania,01-12-21,Bioenergy,0.05
+Romania,01-12-21,Clean,3.18
+Romania,01-12-21,Coal,0.9
+Romania,01-12-21,Fossil,2.12
+Romania,01-12-21,Gas,1.22
+Romania,01-12-21,Hydro,1.19
+Romania,01-12-21,Nuclear,1.04
+Romania,01-12-21,Solar,0.03
+Romania,01-12-21,Wind,0.87
+Romania,01-12-21,Wind and solar,0.9
+Romania,01-01-22,Bioenergy,0.05
+Romania,01-01-22,Clean,3.45
+Romania,01-01-22,Coal,0.84
+Romania,01-01-22,Fossil,2.05
+Romania,01-01-22,Gas,1.21
+Romania,01-01-22,Hydro,1.27
+Romania,01-01-22,Nuclear,1.05
+Romania,01-01-22,Solar,0.06
+Romania,01-01-22,Wind,1.02
+Romania,01-01-22,Wind and solar,1.08
+Romania,01-02-22,Bioenergy,0.05
+Romania,01-02-22,Clean,2.72
+Romania,01-02-22,Coal,0.8
+Romania,01-02-22,Fossil,1.91
+Romania,01-02-22,Gas,1.11
+Romania,01-02-22,Hydro,0.97
+Romania,01-02-22,Nuclear,0.94
+Romania,01-02-22,Solar,0.09
+Romania,01-02-22,Wind,0.67
+Romania,01-02-22,Wind and solar,0.76
+Romania,01-03-22,Bioenergy,0.05
+Romania,01-03-22,Clean,3.14
+Romania,01-03-22,Coal,0.95
+Romania,01-03-22,Fossil,1.63
+Romania,01-03-22,Gas,0.68
+Romania,01-03-22,Hydro,1.12
+Romania,01-03-22,Nuclear,1.04
+Romania,01-03-22,Solar,0.13
+Romania,01-03-22,Wind,0.8
+Romania,01-03-22,Wind and solar,0.93
+Romania,01-04-22,Bioenergy,0.05
+Romania,01-04-22,Clean,3.27
+Romania,01-04-22,Coal,0.84
+Romania,01-04-22,Fossil,1.32
+Romania,01-04-22,Gas,0.48
+Romania,01-04-22,Hydro,1.31
+Romania,01-04-22,Nuclear,1.01
+Romania,01-04-22,Solar,0.15
+Romania,01-04-22,Wind,0.75
+Romania,01-04-22,Wind and solar,0.9
+Romania,01-05-22,Bioenergy,0.05
+Romania,01-05-22,Clean,2.84
+Romania,01-05-22,Coal,0.91
+Romania,01-05-22,Fossil,1.74
+Romania,01-05-22,Gas,0.83
+Romania,01-05-22,Hydro,1.59
+Romania,01-05-22,Nuclear,0.64
+Romania,01-05-22,Solar,0.2
+Romania,01-05-22,Wind,0.36
+Romania,01-05-22,Wind and solar,0.56
+Romania,01-06-22,Bioenergy,0.04
+Romania,01-06-22,Clean,2.51
+Romania,01-06-22,Coal,0.96
+Romania,01-06-22,Fossil,1.79
+Romania,01-06-22,Gas,0.83
+Romania,01-06-22,Hydro,1.37
+Romania,01-06-22,Nuclear,0.53
+Romania,01-06-22,Solar,0.19
+Romania,01-06-22,Wind,0.38
+Romania,01-06-22,Wind and solar,0.57
+Romania,01-07-22,Bioenergy,0.04
+Romania,01-07-22,Clean,2.72
+Romania,01-07-22,Coal,0.96
+Romania,01-07-22,Fossil,1.82
+Romania,01-07-22,Gas,0.86
+Romania,01-07-22,Hydro,1.08
+Romania,01-07-22,Nuclear,1
+Romania,01-07-22,Solar,0.19
+Romania,01-07-22,Wind,0.41
+Romania,01-07-22,Wind and solar,0.6
+Romania,01-08-22,Bioenergy,0.04
+Romania,01-08-22,Clean,2.47
+Romania,01-08-22,Coal,0.87
+Romania,01-08-22,Fossil,1.73
+Romania,01-08-22,Gas,0.86
+Romania,01-08-22,Hydro,0.92
+Romania,01-08-22,Nuclear,0.9
+Romania,01-08-22,Solar,0.16
+Romania,01-08-22,Wind,0.45
+Romania,01-08-22,Wind and solar,0.61
+Romania,01-09-22,Bioenergy,0.04
+Romania,01-09-22,Clean,2.64
+Romania,01-09-22,Coal,0.82
+Romania,01-09-22,Fossil,1.65
+Romania,01-09-22,Gas,0.83
+Romania,01-09-22,Hydro,1
+Romania,01-09-22,Nuclear,0.98
+Romania,01-09-22,Solar,0.11
+Romania,01-09-22,Wind,0.51
+Romania,01-09-22,Wind and solar,0.62
+Romania,01-10-22,Bioenergy,0.05
+Romania,01-10-22,Clean,2.71
+Romania,01-10-22,Coal,0.77
+Romania,01-10-22,Fossil,1.63
+Romania,01-10-22,Gas,0.86
+Romania,01-10-22,Hydro,1.13
+Romania,01-10-22,Nuclear,1.01
+Romania,01-10-22,Solar,0.13
+Romania,01-10-22,Wind,0.39
+Romania,01-10-22,Wind and solar,0.52
+Romania,01-11-22,Bioenergy,0.05
+Romania,01-11-22,Clean,2.65
+Romania,01-11-22,Coal,0.96
+Romania,01-11-22,Fossil,1.99
+Romania,01-11-22,Gas,1.03
+Romania,01-11-22,Hydro,0.98
+Romania,01-11-22,Nuclear,1
+Romania,01-11-22,Solar,0.05
+Romania,01-11-22,Wind,0.57
+Romania,01-11-22,Wind and solar,0.62
+Romania,01-12-22,Bioenergy,0.05
+Romania,01-12-22,Clean,3.01
+Romania,01-12-22,Coal,0.88
+Romania,01-12-22,Fossil,1.91
+Romania,01-12-22,Gas,1.03
+Romania,01-12-22,Hydro,1.29
+Romania,01-12-22,Nuclear,1.03
+Romania,01-12-22,Solar,0.04
+Romania,01-12-22,Wind,0.6
+Romania,01-12-22,Wind and solar,0.64
+Romania,01-01-23,Bioenergy,0.04
+Romania,01-01-23,Clean,3.57
+Romania,01-01-23,Coal,0.73
+Romania,01-01-23,Fossil,1.95
+Romania,01-01-23,Gas,1.22
+Romania,01-01-23,Hydro,1.54
+Romania,01-01-23,Nuclear,1.04
+Romania,01-01-23,Solar,0.04
+Romania,01-01-23,Wind,0.91
+Romania,01-01-23,Wind and solar,0.95
+Romania,01-02-23,Bioenergy,0.04
+Romania,01-02-23,Clean,3.23
+Romania,01-02-23,Coal,0.68
+Romania,01-02-23,Fossil,1.79
+Romania,01-02-23,Gas,1.11
+Romania,01-02-23,Hydro,1.35
+Romania,01-02-23,Nuclear,0.93
+Romania,01-02-23,Solar,0.09
+Romania,01-02-23,Wind,0.82
+Romania,01-02-23,Wind and solar,0.91
+Romania,01-03-23,Bioenergy,0.04
+Romania,01-03-23,Clean,3.55
+Romania,01-03-23,Coal,0.73
+Romania,01-03-23,Fossil,1.39
+Romania,01-03-23,Gas,0.66
+Romania,01-03-23,Hydro,1.72
+Romania,01-03-23,Nuclear,1.04
+Romania,01-03-23,Solar,0.15
+Romania,01-03-23,Wind,0.6
+Romania,01-03-23,Wind and solar,0.75
+Romania,01-04-23,Bioenergy,0.03
+Romania,01-04-23,Clean,3.96
+Romania,01-04-23,Coal,0.75
+Romania,01-04-23,Fossil,1.18
+Romania,01-04-23,Gas,0.43
+Romania,01-04-23,Hydro,2.06
+Romania,01-04-23,Nuclear,1.01
+Romania,01-04-23,Solar,0.16
+Romania,01-04-23,Wind,0.7
+Romania,01-04-23,Wind and solar,0.86
+Romania,01-05-23,Bioenergy,0.03
+Romania,01-05-23,Clean,3.5
+Romania,01-05-23,Coal,0.7
+Romania,01-05-23,Fossil,1.06
+Romania,01-05-23,Gas,0.36
+Romania,01-05-23,Hydro,2.16
+Romania,01-05-23,Nuclear,0.61
+Romania,01-05-23,Solar,0.21
+Romania,01-05-23,Wind,0.49
+Romania,01-05-23,Wind and solar,0.7
+Romania,01-06-23,Bioenergy,0.02
+Romania,01-06-23,Clean,3.62
+Romania,01-06-23,Coal,0.6
+Romania,01-06-23,Fossil,0.87
+Romania,01-06-23,Gas,0.27
+Romania,01-06-23,Hydro,2.3
+Romania,01-06-23,Nuclear,0.73
+Romania,01-06-23,Solar,0.23
+Romania,01-06-23,Wind,0.34
+Romania,01-06-23,Wind and solar,0.57
+Romania,01-07-23,Bioenergy,0.02
+Romania,01-07-23,Clean,3.3
+Romania,01-07-23,Coal,0.63
+Romania,01-07-23,Fossil,1.36
+Romania,01-07-23,Gas,0.73
+Romania,01-07-23,Hydro,1.49
+Romania,01-07-23,Nuclear,1
+Romania,01-07-23,Solar,0.3
+Romania,01-07-23,Wind,0.49
+Romania,01-07-23,Wind and solar,0.79
+Romania,01-08-23,Bioenergy,0.02
+Romania,01-08-23,Clean,2.9
+Romania,01-08-23,Coal,0.71
+Romania,01-08-23,Fossil,1.48
+Romania,01-08-23,Gas,0.77
+Romania,01-08-23,Hydro,1.18
+Romania,01-08-23,Nuclear,0.97
+Romania,01-08-23,Solar,0.29
+Romania,01-08-23,Wind,0.44
+Romania,01-08-23,Wind and solar,0.73
+Romania,01-09-23,Bioenergy,0.03
+Romania,01-09-23,Clean,2.81
+Romania,01-09-23,Coal,0.62
+Romania,01-09-23,Fossil,1.4
+Romania,01-09-23,Gas,0.78
+Romania,01-09-23,Hydro,0.92
+Romania,01-09-23,Nuclear,0.98
+Romania,01-09-23,Solar,0.26
+Romania,01-09-23,Wind,0.62
+Romania,01-09-23,Wind and solar,0.88
+Romania,01-10-23,Bioenergy,0.03
+Romania,01-10-23,Clean,2.81
+Romania,01-10-23,Coal,0.62
+Romania,01-10-23,Fossil,1.54
+Romania,01-10-23,Gas,0.92
+Romania,01-10-23,Hydro,0.93
+Romania,01-10-23,Nuclear,1.02
+Romania,01-10-23,Solar,0.2
+Romania,01-10-23,Wind,0.63
+Romania,01-10-23,Wind and solar,0.83
+Romania,01-11-23,Bioenergy,0.03
+Romania,01-11-23,Clean,2.95
+Romania,01-11-23,Coal,0.67
+Romania,01-11-23,Fossil,1.73
+Romania,01-11-23,Gas,1.06
+Romania,01-11-23,Hydro,1.22
+Romania,01-11-23,Nuclear,0.87
+Romania,01-11-23,Solar,0.1
+Romania,01-11-23,Wind,0.73
+Romania,01-11-23,Wind and solar,0.83
+Romania,01-12-23,Bioenergy,0.04
+Romania,01-12-23,Clean,3.31
+Romania,01-12-23,Coal,0.73
+Romania,01-12-23,Fossil,2.01
+Romania,01-12-23,Gas,1.28
+Romania,01-12-23,Hydro,1.48
+Romania,01-12-23,Nuclear,1.02
+Romania,01-12-23,Solar,0.08
+Romania,01-12-23,Wind,0.69
+Romania,01-12-23,Wind and solar,0.77
+Romania,01-01-24,Bioenergy,0.04
+Romania,01-01-24,Clean,3.51
+Romania,01-01-24,Coal,0.66
+Romania,01-01-24,Fossil,1.97
+Romania,01-01-24,Gas,1.31
+Romania,01-01-24,Hydro,1.53
+Romania,01-01-24,Nuclear,1.03
+Romania,01-01-24,Solar,0.11
+Romania,01-01-24,Wind,0.8
+Romania,01-01-24,Wind and solar,0.91
+Romania,01-02-24,Bioenergy,0.04
+Romania,01-02-24,Clean,3.37
+Romania,01-02-24,Coal,0.57
+Romania,01-02-24,Fossil,1.67
+Romania,01-02-24,Gas,1.1
+Romania,01-02-24,Hydro,1.44
+Romania,01-02-24,Nuclear,0.96
+Romania,01-02-24,Solar,0.18
+Romania,01-02-24,Wind,0.75
+Romania,01-02-24,Wind and solar,0.93
+Romania,01-03-24,Bioenergy,0.04
+Romania,01-03-24,Clean,3.39
+Romania,01-03-24,Coal,0.52
+Romania,01-03-24,Fossil,1.6
+Romania,01-03-24,Gas,1.08
+Romania,01-03-24,Hydro,1.47
+Romania,01-03-24,Nuclear,1.02
+Romania,01-03-24,Solar,0.26
+Romania,01-03-24,Wind,0.6
+Romania,01-03-24,Wind and solar,0.86
+Romania,01-04-24,Bioenergy,0.04
+Romania,01-04-24,Clean,3.37
+Romania,01-04-24,Coal,0.44
+Romania,01-04-24,Fossil,0.77
+Romania,01-04-24,Gas,0.33
+Romania,01-04-24,Hydro,1.46
+Romania,01-04-24,Nuclear,0.98
+Romania,01-04-24,Solar,0.4
+Romania,01-04-24,Wind,0.49
+Romania,01-04-24,Wind and solar,0.89
+Romania,01-05-24,Bioenergy,0.04
+Romania,01-05-24,Clean,2.95
+Romania,01-05-24,Coal,0.53
+Romania,01-05-24,Fossil,0.85
+Romania,01-05-24,Gas,0.32
+Romania,01-05-24,Hydro,1.34
+Romania,01-05-24,Nuclear,0.69
+Romania,01-05-24,Solar,0.45
+Romania,01-05-24,Wind,0.43
+Romania,01-05-24,Wind and solar,0.88
+Romania,01-06-24,Bioenergy,0.03
+Romania,01-06-24,Clean,2.8
+Romania,01-06-24,Coal,0.65
+Romania,01-06-24,Fossil,1.35
+Romania,01-06-24,Gas,0.7
+Romania,01-06-24,Hydro,1.38
+Romania,01-06-24,Nuclear,0.5
+Romania,01-06-24,Solar,0.54
+Romania,01-06-24,Wind,0.35
+Romania,01-06-24,Wind and solar,0.89
+Romania,01-07-24,Bioenergy,0.04
+Romania,01-07-24,Clean,2.94
+Romania,01-07-24,Coal,0.71
+Romania,01-07-24,Fossil,1.57
+Romania,01-07-24,Gas,0.86
+Romania,01-07-24,Hydro,1.1
+Romania,01-07-24,Nuclear,0.88
+Romania,01-07-24,Solar,0.58
+Romania,01-07-24,Wind,0.34
+Romania,01-07-24,Wind and solar,0.92
+Romania,01-08-24,Bioenergy,0.04
+Romania,01-08-24,Clean,2.69
+Romania,01-08-24,Coal,0.59
+Romania,01-08-24,Fossil,1.44
+Romania,01-08-24,Gas,0.85
+Romania,01-08-24,Hydro,0.84
+Romania,01-08-24,Nuclear,0.94
+Romania,01-08-24,Solar,0.53
+Romania,01-08-24,Wind,0.34
+Romania,01-08-24,Wind and solar,0.87
+Romania,01-09-24,Bioenergy,0.03
+Romania,01-09-24,Clean,2.81
+Romania,01-09-24,Coal,0.55
+Romania,01-09-24,Fossil,1.3
+Romania,01-09-24,Gas,0.75
+Romania,01-09-24,Hydro,0.87
+Romania,01-09-24,Nuclear,0.97
+Romania,01-09-24,Solar,0.41
+Romania,01-09-24,Wind,0.53
+Romania,01-09-24,Wind and solar,0.94
+Romania,01-10-24,Bioenergy,0.04
+Romania,01-10-24,Clean,2.84
+Romania,01-10-24,Coal,0.59
+Romania,01-10-24,Fossil,1.42
+Romania,01-10-24,Gas,0.83
+Romania,01-10-24,Hydro,1.07
+Romania,01-10-24,Nuclear,0.94
+Romania,01-10-24,Solar,0.36
+Romania,01-10-24,Wind,0.43
+Romania,01-10-24,Wind and solar,0.79
+Romania,01-11-24,Bioenergy,0.03
+Romania,01-11-24,Clean,2.59
+Romania,01-11-24,Coal,0.6
+Romania,01-11-24,Fossil,1.65
+Romania,01-11-24,Gas,1.05
+Romania,01-11-24,Hydro,0.87
+Romania,01-11-24,Nuclear,0.96
+Romania,01-11-24,Solar,0.19
+Romania,01-11-24,Wind,0.54
+Romania,01-11-24,Wind and solar,0.73
+Romania,01-12-24,Bioenergy,0.03
+Romania,01-12-24,Clean,2.67
+Romania,01-12-24,Coal,0.54
+Romania,01-12-24,Fossil,1.64
+Romania,01-12-24,Gas,1.1
+Romania,01-12-24,Hydro,0.89
+Romania,01-12-24,Nuclear,0.94
+Romania,01-12-24,Solar,0.07
+Romania,01-12-24,Wind,0.74
+Romania,01-12-24,Wind and solar,0.81
+Romania,01-01-25,Bioenergy,0.04
+Romania,01-01-25,Clean,2.5
+Romania,01-01-25,Coal,0.6
+Romania,01-01-25,Fossil,1.77
+Romania,01-01-25,Gas,1.17
+Romania,01-01-25,Hydro,0.86
+Romania,01-01-25,Nuclear,0.94
+Romania,01-01-25,Solar,0.17
+Romania,01-01-25,Wind,0.49
+Romania,01-01-25,Wind and solar,0.66
+Romania,01-02-25,Bioenergy,0.04
+Romania,01-02-25,Clean,2.45
+Romania,01-02-25,Coal,0.71
+Romania,01-02-25,Fossil,1.69
+Romania,01-02-25,Gas,0.98
+Romania,01-02-25,Hydro,0.82
+Romania,01-02-25,Nuclear,0.84
+Romania,01-02-25,Solar,0.24
+Romania,01-02-25,Wind,0.51
+Romania,01-02-25,Wind and solar,0.75
+Romania,01-03-25,Bioenergy,0.05
+Romania,01-03-25,Clean,2.99
+Romania,01-03-25,Coal,0.56
+Romania,01-03-25,Fossil,1.38
+Romania,01-03-25,Gas,0.82
+Romania,01-03-25,Hydro,1.01
+Romania,01-03-25,Nuclear,0.93
+Romania,01-03-25,Solar,0.4
+Romania,01-03-25,Wind,0.6
+Romania,01-03-25,Wind and solar,1
+Romania,01-04-25,Bioenergy,0.03
+Romania,01-04-25,Clean,3.08
+Romania,01-04-25,Coal,0.43
+Romania,01-04-25,Fossil,0.73
+Romania,01-04-25,Gas,0.3
+Romania,01-04-25,Hydro,1.14
+Romania,01-04-25,Nuclear,0.9
+Romania,01-04-25,Solar,0.51
+Romania,01-04-25,Wind,0.5
+Romania,01-04-25,Wind and solar,1.01
